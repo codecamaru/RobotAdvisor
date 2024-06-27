@@ -1,2 +1,3 @@
 # RobotAdvisor
-<img width="1135" alt="newdesign" src="https://github.com/codecamaru/RobotAdvisor/assets/54485798/0d64cfcd-7c24-48d1-939a-4bd195e6f75f">
+
+<img width="464" alt="newdesign copy" src="https://github.com/codecamaru/RobotAdvisor/assets/54485798/bbbe7c22-f45c-467c-be0b-f63e32bc1e68">
